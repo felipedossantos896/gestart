@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+
+h1{
+    font-family: Arial;
+    font-size: 5em;
+}
+ul > li > a{
+    font-family: Corbel;
+    text-align: center;
+    font-weight: bold;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+}
+.carousel{
+    margin-top: 0px;
+}
+
+#fundo-preto{
+    height: 10em;
+    background-color: #2d2d30;
+}
+
+
+.navbar-inverse{
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar-default{
+    margin-bottom: 0px;
+}
+
+#banner{
+    height: 27em;
+    background-color: #2d2d30;
+    color: #f5f5f5;
+}
+#pBanner{
+    font-size: 1.2em;
+}
+#parceiros{
+    height: 30em;
+}
+#rodapeDaPagina{
+    height: 370px;
+    background-color: #2d2d30;
+    color: #ffffff;
+}
+#logo-footer{
+    margin: 0 auto;
+}
+#footer-final{
+    margin: 0 auto 0 auto;
+}
